@@ -9,7 +9,7 @@ public class Utills {
     public static final String BaseUrlFour  = "https://gsmsms.bulkwhatsapp.net/WS/";
 
     //public static final String BaseUrlThree  = "http://prigyaneski.com/ws/";
-
+//
  }
 
 // http://103.160.107.177/ws/wp_otp.php
