@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ED3237</color>
+    <color name="colorPrimaryDark">#ED3237</color>
+    <color name="colorAccent">#97989A</color>
+    <color name="dailogcolor">#e15403</color>
+    <color name="colorhint">#E75F62</color>
+    <color name="fontcolor">#828385</color>
+    <color name="hintcolor">#6D6969</color>
+    <color name="black">#000000</color>
+    <color name="green">#69A614</color>
+    <color name="white">#FFFFFF</color>
+    <color name="greenaaa">#FCFCFC</color>
+    <color name="blue_home">#2E617C</color>
+    <color name="dark_grten">#259425</color>
+    <color name="dark_coffie">#6f4e37</color>
+    <color name="dark_green_followup">#056c6c</color>
+</resources>

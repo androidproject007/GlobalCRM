@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_add"
+        android:icon="@drawable/rupee"
+        android:orderInCategory="100"
+        android:title="wallet"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_mail"
+        android:orderInCategory="100"
+        android:title="Email"
+        app:showAsAction="never"
+        android:visible="false"/>
+</menu>
+
